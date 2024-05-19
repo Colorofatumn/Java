@@ -1,2 +1,0 @@
-# Java
-study of weekends
